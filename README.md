@@ -1,99 +1,136 @@
-# 🚀 3D Developer Portfolio Website (React + TypeScript + Three.js)
+# 🚀 Gaurav Kadam — 3D Developer Portfolio
 
-[![3D portfolio preview (click to watch video)](./Screenshot_2026-04-08_22-10-00.png)](./video.mp4)
+A modern, interactive **3D developer portfolio** built to showcase my frontend development experience, projects, and technical skills.
 
-A modern, high-performance **3D developer portfolio website** built with **React**, **TypeScript**, **Three.js**, **GSAP**, and **WebGL**.
+The portfolio combines **React, TypeScript, Three.js, React Three Fiber, GSAP, WebGL, and interactive 3D experiences** to create a responsive and immersive user experience.
 
-If you’re a developer looking for a **portfolio template** that feels premium, interactive, and memorable—this repo is for you.
+## 🌐 Live Portfolio
 
-> Live preview: https://www.redoyanulhaque.me/
+**[Visit My Portfolio](YOUR_LIVE_PORTFOLIO_URL)**
 
 ---
 
 ## ✨ Highlights
 
-- **3D / WebGL experience** powered by **Three.js**
-- Smooth animations with **GSAP**
-- Modern **React + TypeScript** codebase
-- Fast, responsive UI (desktop + mobile)
-- Designed for developers, engineers, programmers, and creators
+- Interactive **3D / WebGL** experience powered by Three.js
+- React-based component architecture
+- Type-safe development with **TypeScript**
+- Smooth animations and transitions using **GSAP**
+- Smooth scrolling and interactive page transitions
+- Responsive experience across desktop, tablet, and mobile
+- Interactive project and experience sections
+- Modern UI/UX focused on usability and visual interaction
+- Optimized production build with Vite
 
 ---
 
 ## 🧰 Tech Stack
 
-- **React**
-- **TypeScript**
-- **Three.js / WebGL**
-- **GSAP**
-- **HTML / CSS / JavaScript**
+### Frontend
+- React
+- TypeScript
+- JavaScript
+- HTML5
+- CSS3
+
+### 3D & Interactive Experience
+- Three.js
+- React Three Fiber
+- React Three Drei
+- WebGL
+- React Three Postprocessing
+- React Three Rapier / Cannon
+
+### Animation & Interaction
+- GSAP
+- Lenis
+- React Icons
+
+### Development & Deployment
+- Vite
+- ESLint
+- Git
+- GitHub
+- Vercel
 
 ---
 
-## 🚀 Getting Started
+## 📂 Featured Projects
 
-### 1) Clone
+### PromptFlow AI
 
-```bash
-git clone https://github.com/red1-for-hek/portfolio-website.git
-cd portfolio-website
-```
+An AI-powered SaaS productivity platform featuring conversational workflows, prompt management, and interactive interfaces.
 
-### 2) Install
+**Tech:** React, TypeScript, Zustand, Tailwind CSS, Framer Motion
 
-```bash
-npm install
-```
+- AI-powered conversational workflows
+- Prompt management
+- Zustand-based state management
+- API-driven AI interactions
+- Responsive SaaS interface
 
-### 3) Run locally
-
-```bash
-npm run dev
-```
-
-### 4) Build
-
-```bash
-npm run build
-```
+**[Live Demo](YOUR_PROMPTFLOW_LIVE_URL)** · **[GitHub](https://github.com/gauravv69/promptflow-ai)**
 
 ---
 
-## 🧩 Customize (Quick Guide)
+### Nova AR
 
-Typical things you’ll want to update:
+A mobile-first WebAR experience for interactive 3D visualization and real-world AR placement.
 
-- **Your name + hero section text**
-- **Projects list**
-- **Social links** (GitHub, LinkedIn, email)
-- **SEO meta title/description**
+**Tech:** React, TypeScript, Three.js, WebXR, Tailwind CSS
 
----
+- Interactive 3D visualization
+- WebAR experiences
+- Responsive React interface
+- Reusable UI components
+- Mobile-focused experience
 
-## ⭐ Support
-
-If you found this useful:
-
-- Please **star** the repository (it helps a lot)
-- Share it with a friend who needs a portfolio template
-- Sponsor via the **Sponsor** button on GitHub (if available in your region)
+**[Live Demo](YOUR_NOVA_AR_LIVE_URL)** · **[GitHub](https://github.com/gauravv69/ar-3d-viewer)**
 
 ---
 
-## 🤝 Connect
+## 💼 Experience
 
-- LinkedIn: https://www.linkedin.com/in/red1-for-hek/
+### Indxo AI
+
+**Jr. Data Analyst — Frontend Development & UI/UX**  
+**Nov 2025 – Present**
+
+Working primarily on frontend development and UI/UX for enterprise web and mobile applications.
+
+- Developed production-grade mobile application features using React Native
+- Built scalable and reusable UI components
+- Developed dashboards and application modules
+- Integrated REST APIs and asynchronous data flows
+- Built data-driven interfaces for MTTR, MTBF, Live Tracking, Digital Thread, and Process Traceability
 
 ---
 
-## 🏷️ Recommended GitHub Topics (add in repo settings)
+## 🧠 Skills
 
-Add these topics to improve GitHub search visibility:
+### Frontend
+React.js · React Native · TypeScript · JavaScript · HTML5 · CSS3
 
-`portfolio` `developer-portfolio` `portfolio-website` `portfolio-template` `3d-portfolio` `react` `typescript` `threejs` `webgl` `gsap` `frontend` `vite`
+### UI & Styling
+Tailwind CSS · Responsive Design · Component-based UI · UI/UX
+
+### State & Data
+Zustand · Context API · REST APIs · Asynchronous Data Handling
+
+### Animation & 3D
+Three.js · React Three Fiber · GSAP · Framer Motion · WebXR · Matter.js
+
+### Tools
+Git · GitHub · Vite · Vercel
 
 ---
 
-## 🪪 License
+## 📁 Project Structure
 
-This project is open source and available under the **MIT License**. See [LICENSE](LICENSE).
+```text
+src/
+├── components/
+├── context/
+├── data/
+├── utils/
+└── ...
